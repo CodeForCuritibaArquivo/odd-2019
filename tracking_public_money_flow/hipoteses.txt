@@ -1,0 +1,33 @@
+temas rastreamento
+
+
+eventos publicos
+	- shows
+	- carnaval
+
+rastreamento de medicamentos
+	- base ( despesa )
+	- Eficacia > retorno
+		   > prevencao
+	perguntas:
+	
+	oque esta sendo comprado de medicamentos?
+	quais os principio ativos?
+	qual o percentual de gastos com a farmacia popular?
+	quantidade distribuida
+		populosa
+		boa vista
+		portao
+		regiao sul
+	prefeitura IPPUC
+	relatorio de bairros
+		http://www.ippuc.org.br/nossobairro/nosso_bairro.html
+		
+
+
+
+tarifa + transporte 
+	- composicao custos > manutencao
+			    > trajetos >> demanda
+			    > combustivel
+
