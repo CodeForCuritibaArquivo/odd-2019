@@ -1,0 +1,33 @@
+Depoimentos das reflexões.
+
+Processo de medicamentos, criado uma trilha de como traçar o uso de medicamentos
+	
+Fontes de dados
+	Sites oficiais (Prefeitura, Estado ou União)
+	ONG´s
+	Tribunal de Contas Estado/Tribunal de Contas da União
+	Camera vereadores
+	
+Indicadores/Mapear
+	Disponibilidade
+	Período de atualização
+	Origem
+	Contato
+	Formato arquivo (CSV, PDF, ODF, ...)
+
+O que analisar?
+
+	Escopo
+		Solicitação
+		Fornecedor
+		Verba
+		Disponibilizado
+		Prazo
+Governança
+KPI
+
+
+
+o engajamento do cidado é o melhor remedio 
+o ministerio da saude adverte:
+A participacao do cidadao e o melhor remedio para a gestao da saude publica
